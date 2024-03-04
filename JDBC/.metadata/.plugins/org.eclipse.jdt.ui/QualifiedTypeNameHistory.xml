@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jspider.car.operations.operations"/>
+    <fullyQualifiedTypeName name="com.jspider.car.operations.viewCar"/>
+    <fullyQualifiedTypeName name="com.jspider.car.operations.searchCar"/>
+    <fullyQualifiedTypeName name="com.jspider.car.operations.addCar"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.jdbc.Driver"/>
+    <fullyQualifiedTypeName name="com.jspider.car.operations.removeCar"/>
+    <fullyQualifiedTypeName name="com.jspider.car.operations.JDBCServices"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.jspider.car.main.menu"/>
+</qualifiedTypeNameHistroy>
